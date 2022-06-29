@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.headerWrapper{
+    height: 70px;
+    width:  100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerLogo{
+    width: 20%;
+}
+
+img{
+    height: 60px;
+}
+
+.headerTitle{
+    display: flex;
+    justify-content: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+}
+
+.createOwn{
+    width: 30%;
+}
+
+.createBtn{
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    border: 1px solid rgb(130, 116, 135);
+    background-color: rgba(39, 23, 38, 0.096);
+}

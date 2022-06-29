@@ -1,0 +1,25 @@
+.cardWrapper{
+    height: 16vw;
+    width: 50%;
+    margin: 14px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(59, 59, 86);
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(234, 207, 207);
+}
+
+.Title{
+    font-size:3.5vw;
+}
+
+.disc{
+    font-size: 2vw;
+}
+
+.Rubik{
+    font-family: 'Rubik Moonrocks', cursive;
+    color: rgb(64, 8, 64);
+}
