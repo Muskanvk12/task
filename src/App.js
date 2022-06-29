@@ -12,6 +12,7 @@ function App() {
       <Routes>
         <Route  path='/' element={<><Header/><Main Data = {Data}/></>}/>
         <Route path='/createnameplate' element={<CreateNamePlate/>}/>
+        <Route path='/usersPlate' element={<Header/>}/>
       </Routes>
     </BrowserRouter>
     </div>

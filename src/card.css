@@ -8,7 +8,8 @@
     align-items: center;
     border: 2px solid rgb(59, 59, 86);
     font-family: 'Raleway', sans-serif;
-    background-color: rgb(234, 207, 207);
+    background-color: #ee6a59;
+    color: #1c3144;
 }
 
 .Title{
@@ -21,5 +22,5 @@
 
 .Rubik{
     font-family: 'Rubik Moonrocks', cursive;
-    color: rgb(64, 8, 64);
+    color: #183044;
 }
